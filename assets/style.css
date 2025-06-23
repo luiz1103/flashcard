@@ -3,8 +3,9 @@ background-color: rgb(2, 131, 135);
 }
 footer {
 background-color: black;
-color: white;
+color: rgb(0, 0, 0);
 bottom:0;
 position:fixed;
 width:100%;
+
 }
