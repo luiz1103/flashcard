@@ -1,13 +1,13 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    ' O que é um loop (laço)?',
+    'Um loop é uma estrutura de controle que permite repetir um bloco de código várias vezes. '
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quantos continentes existem no mundo?',
+    'Sete (África, América do Norte, América do Sul, Antártida, Ásia, Europa e Oceania).'
 )
 
 criaCartao(
