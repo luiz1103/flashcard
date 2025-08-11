@@ -6,17 +6,17 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Quantos continentes existem no mundo?',
-    'Sete (África, América do Norte, América do Sul, Antártida, Ásia, Europa e Oceania).'
+    'Qual é o nome do rio mais longo do mundo? ',
+    'Rio Nilo.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'História',
+    'Qual foi a primeira capital do Brasil?',
+    'Salvador'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Educação Fífica',
+    'Quem descobriu o Brasil?',
+    'Pedro Álvares Cabral'
 )
