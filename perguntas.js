@@ -16,7 +16,7 @@ criaCartao(
     'Salvador'
 )
     criaCartao(
-    'Ed Fífica',
+    'Ed Física',
     'Quem descobriu o Brasil?',
     'Pedro Álvares Cabral'
 )
